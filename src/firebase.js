@@ -2,7 +2,7 @@ import firebase from 'firebase';
 import 'firebase/firestore'
 
 const config = {
-  apiKey: "AIzaSyAv3xGUQ92mnxPJQ2TBPV3DnwdRDRNa03w",
+  apiKey: ////////,
     authDomain: "rapidalert-72de2.firebaseapp.com",
     databaseURL: "https://rapidalert-72de2.firebaseio.com",
     projectId: "rapidalert-72de2",
